@@ -1,4 +1,3 @@
-# Other Mini Projects
-* Implementation and analysis of stack, and using stacks to evaluate infix expressions
-* Implementation of AVL trees to implement an ordered map
-* Implementation of hash tables and simple "Python-ish" interpretator
+# C
+* Implementation of greedy algorithms
+* Implementation of dynamic programming
